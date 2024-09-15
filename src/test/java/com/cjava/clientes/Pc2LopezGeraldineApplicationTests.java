@@ -1,4 +1,4 @@
-package com.cjava.pc2lopezgeraldine;
+package com.cjava.clientes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

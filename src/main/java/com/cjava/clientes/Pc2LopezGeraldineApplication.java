@@ -1,4 +1,4 @@
-package com.cjava.pc2lopezgeraldine;
+package com.cjava.clientes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
