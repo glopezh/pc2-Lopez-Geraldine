@@ -87,4 +87,8 @@ public class Cliente implements Serializable {
 		this.createAt = createAt;
 	}
 
+	public Cliente() {
+
+	}
+
 }
